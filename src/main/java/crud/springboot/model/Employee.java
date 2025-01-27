@@ -2,6 +2,8 @@ package crud.springboot.model;
 
 import jakarta.persistence.*;
 
+// SECOND TEST
+
 @Entity
 @Table(name = "employees")
 public class Employee {
